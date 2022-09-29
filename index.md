@@ -31,9 +31,9 @@
 # [관련 이미지 & 동영상]
 
 - 이미지  
-  <img src="./img/관련이미지.jpg">
+  <img src="./img/관련이미지.png">
 - 동영상
-  [![](./img/그림.png)](https://www.youtube.com/watch?v=9K3SDa4HK4k)
+  (https://www.youtube.com/watch?v=9K3SDa4HK4k)
 
 <br><br>
 
