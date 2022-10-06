@@ -1,4 +1,4 @@
-# 프로젝트명: rolling dice
+# 프로젝트명: rolling dice(이창준)
 
 # [컨셉]
 
